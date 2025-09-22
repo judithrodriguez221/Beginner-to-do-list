@@ -7,6 +7,3 @@ git status
 
 to add a new file to a "local" repositoy:
 git add <name/path of file>
-
-some new data/text. 
-
