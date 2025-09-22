@@ -1,0 +1,10 @@
+Command to clone repository locally:
+git clone "https://github.com/judithrodriguez221/Beginner-to-do-list.git"
+The above command create a folder and whole of repository in that.
+
+to check the current status of local repository run:
+git status
+
+to add a new file to a "local" repositoy:
+git add <name/path of file>
+
